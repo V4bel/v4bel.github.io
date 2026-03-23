@@ -1,0 +1,10 @@
+title: Project V4bel
+description: ""
+url: "https://v4bel.github.io"
+baseurl: ""
+github_username: v4bel
+
+remote_theme: "jekyll/minima"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
