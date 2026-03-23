@@ -5,6 +5,7 @@ baseurl: ""
 github_username: v4bel
 
 remote_theme: "jekyll/minima"
+future: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
