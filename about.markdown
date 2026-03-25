@@ -15,6 +15,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 ##### Vulnerability Reports
 
+- **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free)
 - **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free)
 - **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free)
 - **CVE-2025-38087** (Linux Kernel Traffic Control TAPRIO Use-After-Free)
