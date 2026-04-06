@@ -4,17 +4,22 @@ title: About
 permalink: /about/
 ---
 
+<style>
+h4 + h5, ul + h5 { margin-top: 0.7em !important; }
+h4 { margin-bottom: 0.3em !important; }
+</style>
+
 I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
-##### Awards
+#### Awards
 - **Pwnie Awards 2025 Best Privilege Escalation category Winner** (CVE-2024-50264)
 - **Pwn2Own Berlin 2025 Red Hat Linux in the LPE category Winner** (Theori, $15,000)
 - **Google kernelCTF LTS-6.6.75/COS-105 1-day Winner** (CVE-2025-21756, $71,337)
 - **Google kernelCTF LTS-6.6.56/COS-109 0-day Winner** (CVE-2024-50264, $81,337)
 - **Google kernelCTF LTS-6.6.35 0-day Winner** (CVE-2024-41010, $51,337)
 
-##### Vulnerability Reports
-
+#### Vulnerability Reports
+##### Linux Kernel
 - **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free)
 - **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free)
 - **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free)
@@ -38,6 +43,12 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **CVE-2022-45919** (Linux Kernel DVB Core Use-After-Free)
 - **...**
 
-##### Conference Talks
+##### Spring
+- **CVE-2026-22738** (Spring AI SimpleVectorStore SpEL Injection RCE)
+- **CVE-2026-22742** (Spring AI Bedrock SSRF via Unvalidated Media URL)
+- **CVE-2026-22744** (Spring AI RedisVectorStore TAG Filter Injection)
+- **CVE-2026-22739** (Spring Cloud Config Server Profile Path Traversal & SSRF)
+- **...**
 
+#### Conference Talks
 - **Race Condition Symphony: From Tiny Idea to Pwnie** — *POC Conference, Seoul, 2025*
