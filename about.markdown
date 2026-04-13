@@ -26,6 +26,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **CVE-2026-31406** (Linux Kernel XFRM Use-After-Free)
 - **CVE-2026-31407** (Linux Kernel Netfilter Out-Of-Bounds)
 - **CVE-2026-23458** (Linux Kernel Netfilter Use-After-Free)
+- **CVE-2026-31414** (Linux Kernel Netfilter Use-After-Free)
 - **CVE-2025-38087** (Linux Kernel Traffic Control TAPRIO Use-After-Free)
 - **CVE-2024-50264** (Linux Kernel Virtual Socket Use-After-Free)
 - **CVE-2024-27394** (Linux Kernel TCP Use-After-Free)
