@@ -13,6 +13,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 #### Awards
 - **Pwnie Awards 2025 Best Privilege Escalation category Winner** (CVE-2024-50264)
+- **Pwn2Own Berlin 2026 Red Hat Linux in the LPE category Winner**
 - **Pwn2Own Berlin 2025 Red Hat Linux in the LPE category Winner** (Theori, $15,000)
 - **Google kernelCTF LTS-6.6.75/COS-105 1-day Winner** (CVE-2025-21756, $71,337)
 - **Google kernelCTF LTS-6.6.56/COS-109 0-day Winner** (CVE-2024-50264, $81,337)
@@ -20,10 +21,12 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 #### Vulnerability Reports
 ##### Linux Kernel
-- **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free)
-- **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free)
-- **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free)
-- **CVE-2026-31406** (Linux Kernel XFRM Use-After-Free)
+- **CVE-2026-43284** (Linux Kernel xfrm-ESP Page-Cache Write, Dirty Frag)
+- **CVE-2026-43500** (Linux Kernel RxRPC Page-Cache Write, Dirty Frag)
+- **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free, Out-of-Cancel)
+- **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free, Out-of-Cancel)
+- **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free, Out-of-Cancel)
+- **CVE-2026-31406** (Linux Kernel XFRM Use-After-Free, Out-of-Cancel)
 - **CVE-2026-31407** (Linux Kernel Netfilter Out-Of-Bounds)
 - **CVE-2026-23458** (Linux Kernel Netfilter Use-After-Free)
 - **CVE-2026-31414** (Linux Kernel Netfilter Use-After-Free)
@@ -44,11 +47,13 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **CVE-2022-45919** (Linux Kernel DVB Core Use-After-Free)
 - **...**
 
-##### Spring
+##### Others
 - **CVE-2026-22738** (Spring AI SimpleVectorStore SpEL Injection RCE)
 - **CVE-2026-22742** (Spring AI Bedrock SSRF via Unvalidated Media URL)
 - **CVE-2026-22744** (Spring AI RedisVectorStore TAG Filter Injection)
 - **CVE-2026-22739** (Spring Cloud Config Server Profile Path Traversal & SSRF)
+- **CVE-2026-33454** (Apache Camel-Mail Header Injection via Missing Inbound Filter)
+- **CVE-2026-33453** (Apache Camel-CoAP Header Injection RCE)
 - **...**
 
 #### Conference Talks
