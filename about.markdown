@@ -23,6 +23,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 ##### Linux Kernel
 - **CVE-2026-43284** (Linux Kernel xfrm-ESP Page-Cache Write, Dirty Frag)
 - **CVE-2026-43500** (Linux Kernel RxRPC Page-Cache Write, Dirty Frag)
+- **CVE-2026-43503** (Linux Kernel xfrm-ESP Page-Cache Write, Dirty Frag Variant)
 - **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free, Out-of-Cancel)
 - **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free, Out-of-Cancel)
 - **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free, Out-of-Cancel)
@@ -54,6 +55,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **CVE-2026-22739** (Spring Cloud Config Server Profile Path Traversal & SSRF)
 - **CVE-2026-33454** (Apache Camel-Mail Header Injection via Missing Inbound Filter)
 - **CVE-2026-33453** (Apache Camel-CoAP Header Injection RCE)
+- **CVE-2026-35086** (Apache OFBiz Authenticated RCE via Unsafe Template Expansion in email)
 - **...**
 
 #### Conference Talks
