@@ -21,15 +21,16 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **Google kernelCTF LTS-6.6.35 0-day Winner** (CVE-2024-41010, $51,337)
 
 #### Vulnerability Reports
+##### Android
+- **CVE-2026-21048/SVE-2026-1650** (Samsung Galaxy libimagecodec.media.quram.so 0-click/1-click Out-Of-Bounds write)
+- **CVE-2026-21049/SVE-2026-1820** (Samsung Galaxy libpadm.so Out-Of-Bounds write)
+- **TBD** ($8,000)
+- **TBD** ($4,000)
+- **...**
 
 ##### KVM
 - **CVE-2026-53359** (Guest-to-Host Escape in KVM/x86, [Januscape](https://github.com/V4bel/Januscape))
 - **CVE-2026-46316** (Guest-to-Host Escape in KVM/arm64, [ITScape](https://github.com/V4bel/ITScape))
-- **...**
-
-##### Android
-- **TBD** ($8,000)
-- **TBD** ($4,000)
 - **...**
 
 ##### Linux Kernel
