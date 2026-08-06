@@ -24,11 +24,10 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 ##### Android
 - **CVE-2026-21048/SVE-2026-1650** (Samsung Galaxy libimagecodec.media.quram.so 0-click/1-click Out-Of-Bounds Write)
 - **CVE-2026-21049/SVE-2026-1820** (Samsung Galaxy libpadm.so Out-Of-Bounds Write)
-- **TBD** ($8,000)
-- **TBD** ($4,000)
 - **...**
 
 ##### KVM
+- **CVE-2026-64561** (Guest-to-Host Escape in KVM/arm64, [Zapscape](https://github.com/V4bel/Zapscape))
 - **CVE-2026-53359** (Guest-to-Host Escape in KVM/x86, [Januscape](https://github.com/V4bel/Januscape))
 - **CVE-2026-46316** (Guest-to-Host Escape in KVM/arm64, [ITScape](https://github.com/V4bel/ITScape))
 - **...**
@@ -38,9 +37,9 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **CVE-2026-43500** (Linux Kernel RxRPC Page-Cache Write, [Dirty Frag](https://github.com/V4bel/dirtyfrag))
 - **CVE-2026-43503** (Linux Kernel xfrm-ESP Page-Cache Write, [Dirty Frag Variant](https://seclists.org/oss-sec/2026/q2/647))
 - **CVE-2026-23239** (Linux Kernel ESP-in-TCP Use-After-Free, [Out-of-Cancel](https://v4bel.github.io/linux/2026/03/23/ooc.html))
-- **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free, [Out-of-Cancel](https://v4bel.github.io/linux/2026/03/23/ooc.html))
-- **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free, [Out-of-Cancel](https://v4bel.github.io/linux/2026/03/23/ooc.html))
-- **CVE-2026-31406** (Linux Kernel XFRM Use-After-Free, [Out-of-Cancel](https://v4bel.github.io/linux/2026/03/23/ooc.html))
+- **CVE-2026-23240** (Linux Kernel kTLS Use-After-Free, Out-of-Cancel)
+- **CVE-2026-23393** (Linux Kernel Bridge CFM Use-After-Free, Out-of-Cancel)
+- **CVE-2026-31406** (Linux Kernel XFRM Use-After-Free, Out-of-Cancel)
 - **CVE-2026-31407** (Linux Kernel Netfilter Out-Of-Bounds)
 - **CVE-2026-23458** (Linux Kernel Netfilter Use-After-Free)
 - **CVE-2026-31414** (Linux Kernel Netfilter Use-After-Free)
