@@ -27,7 +27,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 - **...**
 
 ##### KVM
-- **CVE-2026-64561** (Guest-to-Host Escape in KVM/arm64, [Zapscape](https://github.com/V4bel/Zapscape))
+- **CVE-2026-64561** (Guest-to-Host Escape in KVM/x86, [Zapscape](https://github.com/V4bel/Zapscape))
 - **CVE-2026-53359** (Guest-to-Host Escape in KVM/x86, [Januscape](https://github.com/V4bel/Januscape))
 - **CVE-2026-46316** (Guest-to-Host Escape in KVM/arm64, [ITScape](https://github.com/V4bel/ITScape))
 - **...**
