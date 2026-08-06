@@ -62,3 +62,4 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 #### Conference Talks
 - **Race Condition Symphony: From Tiny Idea to Pwnie** — *POC Conference, Seoul, 2025*
+
