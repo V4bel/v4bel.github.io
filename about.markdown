@@ -12,10 +12,12 @@ h4 { margin-bottom: 0.3em !important; }
 I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 #### Awards
-- **Google kvmCTF 0-day Winner** (CVE-2026-53359)
+- **Pwnie Awards 2026 Best Remote Code Execution category Winner** (CVE-2026-46316)
+- **Pwnie Awards 2026 Best Privilege Escalation category Winner** (CVE-2026-43284 & CVE-2026-43500)
 - **Pwnie Awards 2025 Best Privilege Escalation category Winner** (CVE-2024-50264)
 - **Pwn2Own Berlin 2026 Red Hat Linux in the LPE category Winner** ($5,000)
 - **Pwn2Own Berlin 2025 Red Hat Linux in the LPE category Winner** (Theori, $15,000)
+- **Google kvmCTF 0-day Winner** (CVE-2026-53359)
 - **Google kernelCTF LTS-6.6.75/COS-105 1-day Winner** (CVE-2025-21756, $71,337)
 - **Google kernelCTF LTS-6.6.56/COS-109 0-day Winner** (CVE-2024-50264, $81,337)
 - **Google kernelCTF LTS-6.6.35 0-day Winner** (CVE-2024-41010, $51,337)
