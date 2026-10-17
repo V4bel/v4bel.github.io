@@ -24,7 +24,7 @@ I'm Hyunwoo Kim (@v4bel), an independent vulnerability researcher.
 
 #### Vulnerability Reports
 ##### Android
-- **CVE-2026-21048/SVE-2026-1650** (Samsung Galaxy libimagecodec.media.quram.so 0-click/1-click Out-Of-Bounds Write)
+- **CVE-2026-21048/SVE-2026-1650** (Samsung Galaxy libimagecodec.media.quram.so 0-click Out-Of-Bounds Write)
 - **CVE-2026-21049/SVE-2026-1820** (Samsung Galaxy libpadm.so Out-Of-Bounds Write)
 - **...**
 
